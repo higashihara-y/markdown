@@ -1,0 +1,7 @@
+---
+title: "md_test1"
+editor: visual
+output: github_document
+---
+
+This is a test of github_document
