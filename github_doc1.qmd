@@ -8,3 +8,8 @@ output: github_document
 This is a test of github_document
 
 Today is a first day of Octorber
+
+```{r}
+Satsuki <- 2021 + 10 + 19
+Satsuki
+```
