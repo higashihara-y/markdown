@@ -1,7 +1,10 @@
 ---
 title: "md_test1"
+data: "2024-10-01"
 editor: visual
 output: github_document
 ---
 
 This is a test of github_document
+
+Today is a first day of Octorber
